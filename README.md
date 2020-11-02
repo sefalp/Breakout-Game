@@ -1,8 +1,3 @@
-# INSDR Breakout Game
-
-https://youtu.be/Up-a5x3coC0
-
-We are developing "Breakout", one of the legendary Arcade games! 
 
 ### Movement ###
 * Bricks need to be removed after colliding with the box.
@@ -31,13 +26,6 @@ We are developing "Breakout", one of the legendary Arcade games!
 * At the end of the project all changes made should be sent to the branch under the comment “FINAL COMMIT”. We will be evaluating the projects depending on what’s under this comment.
 * Repository URL: git clone https://bitbucket.org/insider-optimus/insdr-pong-game.git
 
-
-
-# INSDR Breakout Game
-
-https://youtu.be/Up-a5x3coC0
-
-Efsanevi Atari oyunlarından olan "Breakout" oyununu geliştiriyoruz!  
 
 ### Hareket ve Manevra ###
 * Top ile kutu çarpıştıktan sonra kutuların kırılması gerekiyor.
